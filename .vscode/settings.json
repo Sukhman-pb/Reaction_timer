@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "joy_stick_control.h": "c",
+        "helper.h": "c"
+    }
+}
